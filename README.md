@@ -1,5 +1,5 @@
-# BFCAI_project_Flowers_Recognition
-AI project using deep learning (CNN) to flower classification.
+# Flowers Recognition
+a classification with the deep neural network using CNN, we study the flowers and trying to know its type using a data contain 5 main types of flowers, the data consist of 4242 images in 5 files, each file refers to one type.
 
 # Links
 - kaggel dataset link : https://www.kaggle.com/alxmamaev/flowers-recognition
